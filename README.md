@@ -13,7 +13,7 @@ This application was built to help the user keep track of their finances. While 
 
 ## How To Contribute
 
-Contact Eddy Calderon
+Contact Eddy Calderon at EdgarCalderon_24@hotmail.com
 
 ## Installation
 
